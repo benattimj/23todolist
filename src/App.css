@@ -85,10 +85,10 @@ input,select{
 }
 
 .complete {
-  background-color: rgb(149, 227, 32);
+  background-color: rgb(15, 58, 158);
 }
 .remove{
-  background-color: pink;
+  background-color: rgba(0, 4, 255, 0.533);
 }
 
 @keyframes logo-spin {
