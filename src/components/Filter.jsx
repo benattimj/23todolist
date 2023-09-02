@@ -14,7 +14,7 @@ export const Filter = () => {
       <div>
         <p>Ordem alfabética:</p>
         <button>Asc</button>
-        <button>Desc</button>
+        <button>Descr</button>
       </div>
 
     </div>
