@@ -28,6 +28,7 @@ const TodoForm = ({ addTodo }) => {
                     <option value="Estudos"> Estudos</option>
                 </select>
                 <button type="submit">Criar tarefa</button>
+                <h4> Todos os direitos reservados @MuriloBjSystems</h4>
             </form>
         </div>
     )

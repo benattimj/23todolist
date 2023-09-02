@@ -33,6 +33,11 @@ h2 {
   margin-bottom: 10px;
 }
 
+h4 {
+  margin-top: 30px;
+  margin-bottom: 2px;
+  text-align: center;
+}
 p {
   margin: 10px 0;
 }
