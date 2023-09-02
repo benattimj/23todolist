@@ -4,6 +4,7 @@ Bem-vindo ao meu projeto de Lista de Tarefas em React! Este é um aplicativo sim
 
 <a href="https://ibb.co/ZhtCc3J"><img src="https://i.ibb.co/55tVsd9/React-Todo.png" alt="React-Todo" border="0"></a>
 
+Site: >> 23todolist.vercel.app
 
 Funcionalidades
 Adicionar Tarefas: Insira novas tarefas com um título e uma categoria.
