@@ -21,6 +21,7 @@ body{
 }
 
 
+
 h1{
   text-align: center;
 }
@@ -41,6 +42,7 @@ input {
 button {
   background-color: #13070c;
   color: white;
+  margin-right: 10px;
   padding: 5px 10px;
   border: none;
   border-radius: 3px;
@@ -62,7 +64,24 @@ input,select{
   margin-bottom: 10px;
   border: 1px solid #ddd;
   border-radius: 3px;
-  width: 30%;
+  width: 100%;
+}
+.todo-list{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #7c1717;
+
+}
+
+.todo {
+  background-color: #fff;
+  box-shadow: 0 0 10px #555;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;  
 }
 
 .complete {
