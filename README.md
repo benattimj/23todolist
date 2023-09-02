@@ -27,7 +27,7 @@ Clone este repositório em sua máquina local:
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/todo-list-react.git](https://github.com/benattimj/23todolist
+git clone https://github.com/benattimj/23todolist
 Navegue até o diretório do projeto:
 
 bash
