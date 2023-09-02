@@ -1,9 +1,6 @@
-# React + Vite
-
 Todo List em React
+
 Bem-vindo ao meu projeto de Lista de Tarefas em React! Este é um aplicativo simples que permite a você gerenciar suas tarefas de forma eficaz. Com ele, você pode adicionar, marcar como concluídas e remover tarefas da sua lista.
-
-Todo List em React
 
 <a href="https://ibb.co/ZhtCc3J"><img src="https://i.ibb.co/55tVsd9/React-Todo.png" alt="React-Todo" border="0"></a>
 
