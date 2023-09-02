@@ -16,7 +16,7 @@ const TodoForm = ({ addTodo }) => {
         <div className="todo-form">
 
 
-            <h2>Criar tarefa:</h2>
+            <h3>Criar tarefa:</h3>
             <form onSubmit={handleSubmit}>
                 <input type="text" placeholder="Digite o título"
                     value={value}
